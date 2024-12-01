@@ -1,4 +1,4 @@
-package com.example.martclinic.screens
+package com.example.martclinic.ui.screens
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.lazy.LazyColumn
